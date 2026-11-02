@@ -6,8 +6,7 @@ Boli-Saarthi is a proposed voice-first catalog onboarding copilot for Indian art
 - **Team:** The Debugger
 - **Institution:** Echelon Institute of Technology, Faridabad
 - **Track:** Artificial Intelligence
-- **Status:** Hackathon concept / prototype. Do not claim features are implemented until verified.
-
+- **Status:** Hackathon concept / prototype.
 ## MVP flow
 1. Seller uploads a product photo and provides voice or text.
 2. A speech adapter transcribes voice in explicitly supported languages.
